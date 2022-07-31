@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm TamilTech143R</h1>
 <h3 align="center">part time developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://gifimage.net/wp-content/uploads/2017/09/animated-gif-transparent-background-12.gif)">
+<img align="centre" alt="Coding" width="400" src="https://cdn.wallpapersafari.com/33/41/5nCvx3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tt143r&label=Profile%20views&color=0e75b6&style=flat" alt="tt143r" /> </p>
 
